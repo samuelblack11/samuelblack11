@@ -17,6 +17,7 @@ While other social networking platforms share to your wider community, Saloo foc
 Apple and Apple Music are trademarks of Apple Inc., registered in the U.S. and other countries <br>
 
 <a href="https://proofed.azurewebsites.net">Proofed</a> (Main Skills Used: Node, Express, React, Azure)<br>
+
 Proofed is a basic proofreading application which allows users to spell check documents using Bing Spell Check.
 </p>
 
@@ -28,10 +29,7 @@ Proofed is a basic proofreading application which allows users to spell check do
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="45" height="45"/>
-<div style="background-color: black;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" style="mix-blend-mode: difference;" width="45" height="45" />
-</div>
-
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-plain.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="45" height="45" />          
