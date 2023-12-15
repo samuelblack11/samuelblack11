@@ -3,7 +3,7 @@
 
 <h2> Projects I've Built Independently</h2>
 <p align="left">
-<h3 style="color: #2a9d8f; text-decoration: underline;">Saloo Greetings</h3>
+<h3 style="color: #2a9d8f; font-weight: bold; background-color: #eef2f3; padding: 5px; border-radius: 5px;">Saloo Greetings</h3>
 <a href="https://github.com/samuelblack11/Saloo">GitHub Repository</a> | 
 <a href="https://apps.apple.com/us/app/saloo-greetings/id6450127182">Live App</a> <br>
 Skills Used: Swift, Python, Flask, and Azure<br><br>
@@ -20,7 +20,7 @@ While other social networking platforms share to your wider community, Saloo foc
 
 Apple and Apple Music are trademarks of Apple Inc., registered in the U.S. and other countries <br>
 
-<h3 style="color: #2a9d8f; text-decoration: underline;">Proofed (work in progress)</h3>
+<h3 style="color: #2a9d8f; font-weight: bold; background-color: #eef2f3; padding: 5px; border-radius: 5px;">Proofed (work in progress)</h3>
 <a href="https://github.com/samuelblack11/Proofed">GitHub Repository</a> | 
 <a href="https://proofed.azurewebsites.net">Live App</a> <br>
 Skills Used: Node, Express, React, Azure<br><br>
