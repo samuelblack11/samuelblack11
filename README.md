@@ -1,8 +1,8 @@
-### Hello! I'm a Senior Software Engineer with a broad skill set focused in Python, JavaScript, Microsoft Azure, and Swift. I have 5+ years experience working both independently and leading teams for medium sized businesses. My technical skills come with a strong operations background from a fast-paced environment. This has made me highly technical, detail-oriented, and expeditious. I now apply this to mobile and desktop software development. Please find a summary of independent projects I've worked on as well as some skills below.
+### Hello! I'm a Senior Software Engineer with 5+ years experience working both independently and leading teams for medium sized businesses. My technical skills come with a strong operations background from a fast-paced environment. This has made me highly technical, detail-oriented, and expeditious. I now apply this to mobile and desktop software development. Please find a summary of my independent projects and some skills below.
 
 <h2> Some Projects That I've built Independently</h2>
 <p align="left">
-    <a href="https://apps.apple.com/us/app/saloo-greetings/id6450127182">Saloo Greetings</a> (Main Skills Used: Swift, Python, Flask, and Azure)<br>
+    <a href="https://apps.apple.com/us/app/saloo-greetings/id6450127182">Saloo Greetings</a> (Swift, Python, Flask, and Azure)<br>
     
 Saloo is a private social network for connecting with loved ones, sharing memories, and celebrating special events.
 
@@ -16,22 +16,22 @@ While other social networking platforms share to your wider community, Saloo foc
 
 Apple and Apple Music are trademarks of Apple Inc., registered in the U.S. and other countries <br>
 
-<a href="https://proofed.azurewebsites.net">Proofed</a> (Main Skills Used: Node, Express, React, Azure)<br>
+<a href="https://proofed.azurewebsites.net">Proofed</a> (Node, Express, React, Azure)<br>
 
 Proofed is a basic proofreading application which allows users to spell check documents using Bing Spell Check.
 </p>
 
 <h2> Some Languages & Tools I Specialize In</h2>
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="65" height="65"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="65" height="65"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" width="65" height="65"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="65" height="65"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="65" height="65"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="65" height="65"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="65" height="65"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-plain.svg" width="65" height="65"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="65" height="65" />          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="85" height="85"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="85" height="85"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" width="85" height="85"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="85" height="85"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="85" height="85"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="85" height="85"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="85" height="85"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-plain.svg" width="85" height="85"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="85" height="85" />          
 </p>          
 <!--
 **samuelblack11/samuelblack11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
