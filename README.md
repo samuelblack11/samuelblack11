@@ -3,7 +3,10 @@
 
 <h2> Projects I've Built Independently</h2>
 <p align="left">
-    <a href="https://apps.apple.com/us/app/saloo-greetings/id6450127182">Saloo Greetings</a> (Swift, Python, Flask, and Azure)<br>
+<h3 style="color: #2a9d8f; text-decoration: underline;">Saloo Greetings</h3>
+<a href="https://github.com/samuelblack11/Saloo">GitHub Repository</a> | 
+<a href="https://apps.apple.com/us/app/saloo-greetings/id6450127182">Live App</a> <br>
+Skills Used: Swift, Python, Flask, and Azure<br>
     
 Saloo is a private social network for connecting with loved ones, sharing memories, and celebrating special events.
 
