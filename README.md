@@ -2,8 +2,8 @@
 
 <h2> Some Projects That I've built Independently</h2>
 <p align="left">
-    <a href="https://apps.apple.com/us/app/saloo-greetings/id6450127182">Saloo Greetings</a> -
-Main Skills Used: Swift, Python, Flask, and Azure
+    <a href="https://apps.apple.com/us/app/saloo-greetings/id6450127182">Saloo Greetings</a> (Main Skills Used: Swift, Python, Flask, and Azure)<br>
+    
 Saloo is a private social network for connecting with loved ones, sharing memories, and celebrating special events.
 
 Saloo combines 4 elements to create a unique greeting card experience:
@@ -15,9 +15,9 @@ Saloo combines 4 elements to create a unique greeting card experience:
 While other social networking platforms share to your wider community, Saloo focuses on sharing greetings between individuals and small groups of people that you specify for each card. The convenience, privacy, and scope of custom options make for a wonderful greeting card experience. Please #SaySaloo and send a loved one a new kind of greeting today.
 
 Apple and Apple Music are trademarks of Apple Inc., registered in the U.S. and other countries <br>
-    <a href="https://proofed.azurewebsites.net">Proofed</a> - Description for Proofed
-    Main Skills Used: Node, Express, React, Azure
-    Proofed is a basic proofreading application which allows users to spell check documents using Bing Spell Check.
+
+<a href="https://proofed.azurewebsites.net">Proofed</a> (Main Skills Used: Node, Express, React, Azure)<br>
+Proofed is a basic proofreading application which allows users to spell check documents using Bing Spell Check.
 </p>
 
 <h2> Some Languages & Tools I Specialize In</h2>
@@ -28,7 +28,10 @@ Apple and Apple Music are trademarks of Apple Inc., registered in the U.S. and o
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" style="filter: invert(100%);" />
+<div style="background-color: black;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" style="mix-blend-mode: difference;" width="45" height="45" />
+</div>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-plain.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="45" height="45" />          
