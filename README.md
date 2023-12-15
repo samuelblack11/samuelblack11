@@ -16,7 +16,7 @@ While other social networking platforms share to your wider community, Saloo foc
 
 Apple and Apple Music are trademarks of Apple Inc., registered in the U.S. and other countries <br>
 
-<a href="https://proofed.azurewebsites.net">Proofed (work in progress)</a> (Node, Express, React, Azure)<br>
+<a href="https://github.com/samuelblack11/Proofed">Proofed (work in progress)</a> (Node, Express, React, Azure)<br>
 
 Proofed is a basic proofreading application which allows users to spell check documents using Bing Spell Check.
 </p>
