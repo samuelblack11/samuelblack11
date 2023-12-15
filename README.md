@@ -1,6 +1,6 @@
 ### Hello! I'm a Senior Software Engineer with 5+ years experience working both independently and leading teams for medium sized businesses. My technical skills come with a strong operations background from a fast-paced environment. This has made me highly technical, detail-oriented, and expeditious. I now apply this to mobile and desktop software development. Please find a summary of my independent projects and some skills below.
 
-<h2> Projects That I've Built Independently</h2>
+<h2> Projects I've Built Independently</h2>
 <p align="left">
     <a href="https://apps.apple.com/us/app/saloo-greetings/id6450127182">Saloo Greetings</a> (Swift, Python, Flask, and Azure)<br>
     
