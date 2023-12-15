@@ -1,6 +1,6 @@
 ### Hello! I'm a Senior Software Engineer with 5+ years experience working both independently and leading teams for medium sized businesses. My technical skills come with a strong operations background from a fast-paced environment. This has made me highly technical, detail-oriented, and expeditious. I now apply this to mobile and desktop software development. Please find a summary of my independent projects and some skills below.
 
-<h2> Some Projects That I've built Independently</h2>
+<h2> Projects That I've Built Independently</h2>
 <p align="left">
     <a href="https://apps.apple.com/us/app/saloo-greetings/id6450127182">Saloo Greetings</a> (Swift, Python, Flask, and Azure)<br>
     
@@ -21,7 +21,7 @@ Apple and Apple Music are trademarks of Apple Inc., registered in the U.S. and o
 Proofed is a basic proofreading application which allows users to spell check documents using Bing Spell Check.
 </p>
 
-<h2> Some Languages & Tools I Specialize In</h2>
+<h2> Languages & Tools I Specialize In</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="85" height="85"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="85" height="85"/>
