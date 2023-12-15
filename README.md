@@ -17,7 +17,7 @@ While other social networking platforms share to your wider community, Saloo foc
 
 Apple and Apple Music are trademarks of Apple Inc., registered in the U.S. and other countries <br>
 
-<strong>Proofed (work in progress)</strong> <br>
+<h3 style="color: #2a9d8f; text-decoration: underline;">Proofed (work in progress)</h3>
 <a href="https://github.com/samuelblack11/Proofed">GitHub Repository</a> | 
 <a href="https://proofed.azurewebsites.net">Live App</a> <br>
 Skills Used: Node, Express, React, Azure<br>
