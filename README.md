@@ -1,4 +1,5 @@
-### Hello! I'm a Senior Software Engineer with 5+ years experience working both independently and leading teams for medium sized businesses. My technical skills come with a strong operations background from a fast-paced environment. This has made me highly technical, detail-oriented, and expeditious. I now apply this to mobile and desktop software development. Please find a summary of my independent projects and some skills below.
+<h2>About Me</h2>
+### I'm a Senior Software Engineer with 5+ years experience working both independently and leading teams for medium sized businesses. My technical skills come with a strong operations background from a fast-paced environment. This has made me highly technical, detail-oriented, and expeditious. I now apply this to mobile and desktop software development.
 
 <h2> Projects I've Built Independently</h2>
 <p align="left">
@@ -16,9 +17,12 @@ While other social networking platforms share to your wider community, Saloo foc
 
 Apple and Apple Music are trademarks of Apple Inc., registered in the U.S. and other countries <br>
 
-<a href="https://github.com/samuelblack11/Proofed">Proofed (work in progress)</a> (Node, Express, React, Azure)<br>
+<strong>Proofed (work in progress)</strong> <br>
+<a href="https://github.com/samuelblack11/Proofed">GitHub Repository</a> | 
+<a href="https://proofed.azurewebsites.net">Live App</a> <br>
+Skills Used: Node, Express, React, Azure<br>
 
-Proofed is a proofreading application which allows users to easily spell check documents using Bing Spell Check. It has been optimized for both desktop and mobile. It is intended for short documents only. 
+Proofed is a proofreading application which allows users to easily spell check documents using the Bing Spell Check API. It has been optimized for both desktop and mobile. Please note that this project is shared here to demonstrate my competencies with the languages and technologies, rather than as a practical tool that should be used for large documents. This is because there is a low API limit applied to the app. If you would like to test the app's functionality, please do so with documents containing only a few paragraphs.
 </p>
 
 <h2> Languages & Tools I Specialize In</h2>
