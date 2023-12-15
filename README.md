@@ -18,7 +18,7 @@ Apple and Apple Music are trademarks of Apple Inc., registered in the U.S. and o
 
 <a href="https://github.com/samuelblack11/Proofed">Proofed (work in progress)</a> (Node, Express, React, Azure)<br>
 
-Proofed is a basic proofreading application which allows users to spell check documents using Bing Spell Check.
+Proofed is a proofreading application which allows users to easily spell check documents using Bing Spell Check. It has been optimized for both desktop and mobile. It is intended for short documents only. 
 </p>
 
 <h2> Languages & Tools I Specialize In</h2>
