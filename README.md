@@ -1,6 +1,19 @@
 <h2>About Me</h2>
 I'm a Senior Software Engineer with 5+ years experience working both independently and leading teams for medium sized businesses. My technical skills come with a strong operations background from a fast-paced environment. This has made me highly technical, detail-oriented, and expeditious. I now apply this to mobile and desktop software development. Please contact me at snb1582@gmail.com for inquiries.
 
+<h2> Languages & Tools I Specialize In</h2>
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="85" height="85"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="85" height="85"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" width="85" height="85"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="85" height="85"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="85" height="85"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="85" height="85"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="85" height="85"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-plain.svg" width="85" height="85"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="85" height="85" />          
+</p>    
+
 <h2> Projects I've Built Independently</h2>
 <p align="left">
 <h3><strong><span style="color: #2a9d8f; text-decoration: underline;">Saloo Greetings</span></strong></h3>
@@ -26,20 +39,7 @@ Apple and Apple Music are trademarks of Apple Inc., registered in the U.S. and o
 Skills Used: Node, Express, React, Azure<br><br>
 
 Proofed is a proofreading application which allows users to easily spell check documents using the Bing Spell Check API. It has been optimized for both desktop and mobile. Please note that this project is shared here to demonstrate my competencies with the languages and technologies, rather than as a practical tool that should be used for large documents. This is because there is a low API limit applied to the app. If you would like to test the app's functionality, please do so with documents containing only a few paragraphs.
-</p>
-
-<h2> Languages & Tools I Specialize In</h2>
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="85" height="85"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="85" height="85"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" width="85" height="85"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="85" height="85"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="85" height="85"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="85" height="85"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="85" height="85"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-plain.svg" width="85" height="85"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="85" height="85" />          
-</p>          
+</p>      
 <!--
 **samuelblack11/samuelblack11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
