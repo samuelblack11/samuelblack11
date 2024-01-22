@@ -18,7 +18,7 @@ I'm a Senior Software Engineer with 5+ years experience working both independent
 <p align="left">
 <h3><strong><span style="color: #2a9d8f; text-decoration: underline;">Saloo Greetings</span></strong></h3>
 <a href="https://github.com/samuelblack11/Saloo">GitHub Repository</a> | 
-<a href="https://apps.apple.com/us/app/saloo-greetings/id6450127182">Live App</a> <br>
+<a href=" https://apps.apple.com/us/app/saloo-greetings/id6476240440">Live App</a> <br>
 Skills Used: Swift, JavaScript, Node.js, and Azure<br><br>
     
 Saloo is a private social network for connecting with loved ones, sharing memories, and celebrating special events.
