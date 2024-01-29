@@ -33,8 +33,8 @@ While other social networking platforms share to your wider community, Saloo foc
 
 Apple and Apple Music are trademarks of Apple Inc., registered in the U.S. and other countries <br>
 
-<h3><strong><span style="color: #2a9d8f; text-decoration: underline;">FleetWare (work in progress)</span></strong></h3> <br>
-<a href="https://github.com/samuelblack11/FleetWare">GitHub Repository</a>
+<h3><strong><span style="color: #2a9d8f; text-decoration: underline;">FleetWare (work in progress)</span></strong></h3>
+<a href="https://github.com/samuelblack11/FleetWare">GitHub Repository</a> <br>
 Skills Used: Node.js, Express.js, React.js, MongoDB<br><br>
 
 Fleetware is an innovative fleet management and route optimization tool designed for the modern logistics industry. Utilizing MERN stack technology (MongoDB, Express.js, React.js, Node.js), Fleetware will provide real-time tracking, efficient route planning, load optimization, and comprehensive fleet analytics. The tool will dynamically incorporate traffic, weather, and various logistical variables to optimize routes, ensuring timely deliveries and cost savings. The platform is scalable, catering to diverse business sizes, from small local fleets to large multinational logistics operations. Fleetware will stand out for its integration of artificial intelligence (AI) and machine learning, constantly evolving to meet the complex demands of modern transportation challenges. This project is not just a showcase of technical proficiency, but a testament to practical, impactful solutions in the logistics sector. Please note that this project is a work in progress.
