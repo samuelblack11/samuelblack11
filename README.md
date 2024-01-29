@@ -33,12 +33,18 @@ While other social networking platforms share to your wider community, Saloo foc
 
 Apple and Apple Music are trademarks of Apple Inc., registered in the U.S. and other countries <br>
 
-<h3><strong><span style="color: #2a9d8f; text-decoration: underline;">Proofed (work in progress)</span></strong></h3>
+<h3><strong><span style="color: #2a9d8f; text-decoration: underline;">FleetWare (work in progress)</span></strong></h3>
+<a href="https://github.com/samuelblack11/FleetWare">GitHub Repository</a>
+Skills Used: Node.js, Express.js, React.js, MongoDB<br><br>
+
+Fleetware is an innovative fleet management and route optimization tool designed for the modern logistics industry. Utilizing MERN stack technology (MongoDB, Express.js, React.js, Node.js), Fleetware will provide real-time tracking, efficient route planning, load optimization, and comprehensive fleet analytics. The tool will dynamically incorporate traffic, weather, and various logistical variables to optimize routes, ensuring timely deliveries and cost savings. The platform is scalable, catering to diverse business sizes, from small local fleets to large multinational logistics operations. Fleetware will stand out for its integration of artificial intelligence (AI) and machine learning, constantly evolving to meet the complex demands of modern transportation challenges. This project is not just a showcase of technical proficiency, but a testament to practical, impactful solutions in the logistics sector. Please note that this project is a work in progress.
+
+<h3><strong><span style="color: #2a9d8f; text-decoration: underline;">Proofed</span></strong></h3>
 <a href="https://github.com/samuelblack11/Proofed">GitHub Repository</a> | 
 <a href="https://proofed.azurewebsites.net">Live App</a> <br>
 Skills Used: Node, Express, React, Azure<br><br>
 
-Proofed is a proofreading application which allows users to easily spell check documents using the Bing Spell Check API. It has been optimized for both desktop and mobile. Please note that this project is shared here to demonstrate my competencies with the languages and technologies, rather than as a practical tool that should be used for large documents. This is because there is a low API limit applied to the app. If you would like to test the app's functionality, please do so with documents containing only a few paragraphs.
+Proofed is a basic proofreading application which allows users to easily spell check documents using the Bing Spell Check API. It has been optimized for both desktop and mobile. Please note that this project is shared here to demonstrate my competencies with the languages and technologies, rather than as a practical tool that should be used for large documents. This is because there is a low API limit applied to the app. If you would like to test the app's functionality, please do so with documents containing only a few paragraphs.
 </p>      
 <!--
 **samuelblack11/samuelblack11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
