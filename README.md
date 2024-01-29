@@ -33,7 +33,7 @@ While other social networking platforms share to your wider community, Saloo foc
 
 Apple and Apple Music are trademarks of Apple Inc., registered in the U.S. and other countries <br>
 
-<h3><strong><span style="color: #2a9d8f; text-decoration: underline;">FleetWare (work in progress)</span></strong></h3>
+<h3><strong><span style="color: #2a9d8f; text-decoration: underline;">FleetWare (work in progress)</span></strong></h3> <br>
 <a href="https://github.com/samuelblack11/FleetWare">GitHub Repository</a>
 Skills Used: Node.js, Express.js, React.js, MongoDB<br><br>
 
