@@ -1,5 +1,5 @@
 <h2>About Me</h2>
-I'm a Senior Software Engineer with 5+ years experience working both independently and leading teams for medium sized businesses. My technical skills come with a strong operations background from a fast-paced environment. This has made me highly technical, detail-oriented, and expeditious. I now apply this to mobile and desktop software development. I'm currently learning how to develop my own neural network. Please contact me at snb1582@gmail.com for inquiries.
+I'm a Full Stack Engineer with 5+ years experience working both independently and leading teams for medium sized businesses. My technical skills come with a strong operations background from a fast-paced environment. This has made me highly technical, detail-oriented, and expeditious. I now apply this to mobile and desktop software development. I'm currently learning how to develop my own neural network. Please contact me at snb1582@gmail.com for inquiries.
 
 <h2> Languages & Tools I Specialize In</h2>
 <p align="left">
@@ -33,11 +33,11 @@ While other social networking platforms share to your wider community, Saloo foc
 
 Apple and Apple Music are trademarks of Apple Inc., registered in the U.S. and other countries <br>
 
-<h3><strong><span style="color: #2a9d8f; text-decoration: underline;">FleetWare (work in progress)</span></strong></h3>
+<h3><strong><span style="color: #2a9d8f; text-decoration: underline;">Dujour (previously FleetWare) (work in progress)</span></strong></h3>
 <a href="https://github.com/samuelblack11/FleetWare">GitHub Repository</a> <br>
 Skills Used: Node.js, Express.js, React.js, MongoDB<br><br>
 
-Fleetware is an innovative fleet management and route optimization tool designed for the modern logistics industry. Utilizing MERN stack technology (MongoDB, Express.js, React.js, Node.js), Fleetware will provide features for the management of drivers, cargo, and vehicles, load optimization, route planning, real-time tracking, and comprehensive fleets analytics. This will be achieved with the aim of ensuring on time deliveries and saving both cost and time. Fleetware will stand out for its integration of artificial intelligence (AI) and machine learning, constantly evolving to meet the complex demands of modern transportation challenges. Please note that this project is a work in progress.
+Dujour is an innovative supply chain management tool designed to support the delivery of fresh produce from local farms directly to consumers. Utilizing MERN stack technology (MongoDB, Express.js, React.js, Node.js), Dujour is a comprehensive tool which manages each step of this process from order placement to delivery to consumer doorsteps. This includes inventory management and route planning features which allow for logistical optimiaztion. In the spirit of creating healthier and more connected local communities, Dujour aims to provide consumers with the freshest produce in your region. Please note that this project is a work in progress.
 
 <h3><strong><span style="color: #2a9d8f; text-decoration: underline;">Proofed</span></strong></h3>
 <a href="https://github.com/samuelblack11/Proofed">GitHub Repository</a> | 
