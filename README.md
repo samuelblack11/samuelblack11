@@ -1,5 +1,7 @@
 <h2>About Me</h2>
-I'm a Full Stack Engineer with 5+ years experience working both independently and leading teams for medium sized businesses. My technical skills come with a strong operations background from a fast-paced environment. This has made me highly technical, detail-oriented, and expeditious. I now apply this to mobile and desktop software development. I'm currently learning how to develop my own neural network. Please contact me at snb1582@gmail.com for inquiries.
+I'm a Full Stack Engineer with 5+ years experience working both independently and leading teams for medium sized businesses. My technical skills come with a strong operations background from a fast-paced environment. This has made me highly technical, detail-oriented, and expeditious. I now apply this to mobile and desktop software development. Please message me on <a href="https://www.linkedin.com/in/sam-black-26046343/">Linkedin</a> to learn or more or discuss opportunities to work together,
+
+https://www.linkedin.com/in/sam-black-26046343/
 
 <h2> Languages & Tools I Specialize In</h2>
 <p align="left">
