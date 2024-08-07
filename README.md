@@ -7,18 +7,23 @@ Fueled by a sense of urgency and dedicated to continuous learning, I have a keen
 I'm a Full Stack Engineer with 5+ years experience working both independently and leading teams for medium sized businesses. My technical skills come with a strong operations background from a fast-paced environment. This has made me highly technical, detail-oriented, and expeditious. I now apply this to mobile and desktop software development. I enjoy continuously learning new technologies and putting them into practice in passion projects like the ones listed below. Please message me on <a href="https://www.linkedin.com/in/sam-black-26046343/">Linkedin</a> to learn more or discuss opportunities to work together.
 
 
-<h2>My Core Competencies</h2>
+<h2>Languages</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="85" height="85"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="85" height="85"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="85" height="85"/>
+
+<h2>Tools & Platforms</h2>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" width="85" height="85"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="85" height="85"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="85" height="85"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="85" height="85"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="85" height="85"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-plain.svg" width="85" height="85"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="85" height="85" />          
-</p>    
+</p>
+
+<h2>Tools & Platforms</h2>
+Building technologies to create a healthier, more deeply connected society
 
 <h2> Projects I've Built Independently</h2>
 <p align="left">
