@@ -1,4 +1,9 @@
 <h2>About Me</h2>
+
+Fueled by a sense of urgency and dedicated to continuous learning, I have a keen eye for the latest technological trends, which has driven my dynamic career as a Full Stack Engineer over the past five years.
+
+---
+
 I'm a Full Stack Engineer with 5+ years experience working both independently and leading teams for medium sized businesses. My technical skills come with a strong operations background from a fast-paced environment. This has made me highly technical, detail-oriented, and expeditious. I now apply this to mobile and desktop software development. I enjoy continuously learning new technologies and putting them into practice in passion projects like the ones listed below. Please message me on <a href="https://www.linkedin.com/in/sam-black-26046343/">Linkedin</a> to learn more or discuss opportunities to work together.
 
 
