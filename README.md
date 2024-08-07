@@ -1,4 +1,4 @@
-<h2>About Me</h2>
+<h2>Full Stack Engineering & Continuous Innovation with Sam</h2>
 
 Fueled by a sense of urgency and dedicated to continuous learning, I have a keen eye for the latest technological trends, which has driven my dynamic career as a Full Stack Engineer over the past five years.
 
