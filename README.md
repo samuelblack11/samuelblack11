@@ -12,7 +12,7 @@ I'm a Full Stack Engineer with 5+ years experience working both independently an
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="85" height="85"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="85" height="85"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="85" height="85"/>
-
+<br>
 </p>
 
 <h2>Tools & Platforms</h2>
@@ -23,12 +23,13 @@ I'm a Full Stack Engineer with 5+ years experience working both independently an
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="85" height="85"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-plain.svg" width="85" height="85"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="85" height="85" />    
-
+<br>
 </p>
 
 <h2>Interests</h2>
 <p align="left">
 Building technologies to create a healthier, more deeply connected society
+<br>
 
 </p>
 
