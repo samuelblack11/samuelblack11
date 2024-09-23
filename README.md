@@ -1,11 +1,9 @@
-<h2>Full Stack Engineering & Continuous Innovation with Sam</h2>
+<h2>Full Stack Engineering & Supply Chain Innovation with Sam</h2>
 
-Fueled by a sense of urgency and dedicated to continuous learning, I have a keen eye for the latest technological trends, which has driven my dynamic career as a Data and Full Stack Software Engineer over the past five years.
+Driven by a sense of urgency and continuous learning, I combine full stack software engineering with a strong foundation in supply chain analytics. My passion for technological trends has fueled my dynamic journey across these fields over the past five years, applying cutting-edge techniques both professionally and in personal projects. 
 
 ---
-
-I'm a Data and Full Stack Software Engineer with 5+ years experience working both independently and leading teams for medium sized businesses. My technical skills come with a strong operations background from a fast-paced environment. This has made me highly technical, detail-oriented, and expeditious. I now apply this to mobile and desktop software development. I enjoy continuously learning new technologies and putting them into practice in passion projects like the ones listed below. Please message me on <a href="https://www.linkedin.com/in/sam-black-26046343/">Linkedin</a> to learn more or discuss opportunities to work together.
-
+I'm a Senior Manager of Supply Chain Analytics with 5+ years of experience working independently and leading teams for medium-sized businesses. My strong operations background in fast-paced environments has honed my technical and analytical skills, making me highly detail-oriented and efficient in problem-solving. Outside of my professional role, I apply my expertise to full stack software development for mobile and desktop applications, continuously learning and experimenting with new technologies in passion projects like those listed below. Feel free to message me on <a href="https://www.linkedin.com/in/sam-black-26046343/">LinkedIn</a>  to learn more or explore opportunities to collaborate.
 
 <h2>Languages</h2>
 <p align="left">
@@ -26,15 +24,15 @@ I'm a Data and Full Stack Software Engineer with 5+ years experience working bot
 <br>
 </p>
 
-<h2>Interests</h2>
-<p align="left">
-Building technologies to create a healthier, more deeply connected society
-<br>
-
-</p>
 
 <h2> Projects I've Built Independently</h2>
 <p align="left">
+<h3><strong><span style="color: #2a9d8f; text-decoration: underline;">Dujour</span></strong></h3>
+<a href="https://github.com/samuelblack11/Dujour">GitHub Repository</a> <br>
+Skills Used: Node.js, Express.js, React.js, MongoDB<br><br>
+
+Dujour is an innovative supply chain management tool designed to support the delivery of fresh produce from local farms directly to consumers. Utilizing MERN stack technology (MongoDB, Express.js, React.js, Node.js), Dujour is a comprehensive tool which manages each step of this process from order placement to delivery to consumer doorsteps. This includes inventory management and route planning features which allow for logistical optimiaztion. In the spirit of creating healthier and more connected local communities, Dujour aims to provide consumers with the freshest produce in your region. Please note that this project is a work in progress.
+
 <h3><strong><span style="color: #2a9d8f; text-decoration: underline;">Saloo Greetings</span></strong></h3>
 <a href="https://github.com/samuelblack11/Saloo">GitHub Repository</a> | 
 <a href="https://apps.apple.com/us/app/saloo-greetings/id6476240440">Live App</a> <br>
@@ -52,18 +50,6 @@ While other social networking platforms share to your wider community, Saloo foc
 
 Apple and Apple Music are trademarks of Apple Inc., registered in the U.S. and other countries <br>
 
-<h3><strong><span style="color: #2a9d8f; text-decoration: underline;">Dujour (work in progress)</span></strong></h3>
-<a href="https://github.com/samuelblack11/Dujour">GitHub Repository</a> <br>
-Skills Used: Node.js, Express.js, React.js, MongoDB<br><br>
-
-Dujour is an innovative supply chain management tool designed to support the delivery of fresh produce from local farms directly to consumers. Utilizing MERN stack technology (MongoDB, Express.js, React.js, Node.js), Dujour is a comprehensive tool which manages each step of this process from order placement to delivery to consumer doorsteps. This includes inventory management and route planning features which allow for logistical optimiaztion. In the spirit of creating healthier and more connected local communities, Dujour aims to provide consumers with the freshest produce in your region. Please note that this project is a work in progress.
-
-<h3><strong><span style="color: #2a9d8f; text-decoration: underline;">Proofed</span></strong></h3>
-<a href="https://github.com/samuelblack11/Proofed">GitHub Repository</a> | 
-<a href="https://proofed.azurewebsites.net">Live App</a> <br>
-Skills Used: Node, Express, React, Azure<br><br>
-
-Proofed is a basic proofreading application which allows users to easily spell check documents using the Bing Spell Check API. It has been optimized for both desktop and mobile. Please note that this project is shared here to demonstrate my competencies with the languages and technologies, rather than as a practical tool that should be used for large documents. This is because there is a low API limit applied to the app. If you would like to test the app's functionality, please do so with documents containing only a few paragraphs.
 </p>      
 <!--
 **samuelblack11/samuelblack11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
