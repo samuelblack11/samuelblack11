@@ -31,7 +31,7 @@ I'm a Senior Manager of Supply Chain Analytics with 5+ years of experience worki
 <a href="https://github.com/samuelblack11/Dujour">GitHub Repository</a> <br>
 Skills Used: Node.js, Express.js, React.js, MongoDB<br><br>
 
-Dujour is an innovative supply chain management tool designed to support the delivery of fresh produce from local farms directly to consumers. Utilizing MERN stack technology (MongoDB, Express.js, React.js, Node.js), Dujour is a comprehensive tool which manages each step of this process from order placement to delivery to consumer doorsteps. This includes inventory management and route planning features which allow for logistical optimiaztion. In the spirit of creating healthier and more connected local communities, Dujour aims to provide consumers with the freshest produce in your region. Please note that this project is a work in progress.
+Dujour is an innovative supply chain management tool designed to support the delivery of fresh produce from local farms directly to consumers. Utilizing MERN stack technology (MongoDB, Express.js, React.js, Node.js), Dujour is a comprehensive tool which manages each step of this process from order placement to delivery to consumer doorsteps. This includes inventory management and route planning features which allow for logistical optimiaztion. In the spirit of creating healthier and more connected local communities, Dujour aims to provide consumers with the freshest produce in your region.
 
 <h3><strong><span style="color: #2a9d8f; text-decoration: underline;">Saloo Greetings</span></strong></h3>
 <a href="https://github.com/samuelblack11/Saloo">GitHub Repository</a> | 
