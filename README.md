@@ -1,4 +1,4 @@
-<h2>Full Stack Engineering & Supply Chain Innovation with Sam</h2>
+<h2>Supply Chain Innovation & Full Stack Engineering with Sam</h2>
 
 Driven by a sense of urgency and continuous learning, I combine full stack software engineering with a strong foundation in supply chain analytics. My passion for technological trends has fueled my dynamic journey across these fields over the past five years, applying cutting-edge techniques both professionally and in personal projects. 
 
