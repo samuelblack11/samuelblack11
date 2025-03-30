@@ -34,8 +34,7 @@ Skills Used: Node.js, Express.js, React.js, MongoDB<br><br>
 Dujour is an innovative supply chain management tool designed to support the delivery of fresh produce from local farms directly to consumers. Utilizing MERN stack technology (MongoDB, Express.js, React.js, Node.js), Dujour is a comprehensive tool which manages each step of this process from order placement to delivery to consumer doorsteps. This includes inventory management and route planning features which allow for logistical optimiaztion. In the spirit of creating healthier and more connected local communities, Dujour aims to provide consumers with the freshest produce in your region.
 
 <h3><strong><span style="color: #2a9d8f; text-decoration: underline;">Saloo Greetings</span></strong></h3>
-<a href="https://github.com/samuelblack11/Saloo">GitHub Repository</a> | 
-<a href="https://apps.apple.com/us/app/saloo-greetings/id6476240440">Live App</a> <br>
+<a href="https://github.com/samuelblack11/Saloo">GitHub Repository</a>
 Skills Used: Swift, JavaScript, Node.js, and Azure<br><br>
     
 Saloo is a private social network for connecting with loved ones, sharing memories, and celebrating special events.
