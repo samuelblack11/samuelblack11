@@ -1,9 +1,9 @@
 <h2>Supply Chain Innovation & Full Stack Engineering with Sam</h2>
 
-Driven by a sense of urgency and continuous learning, I combine full stack software engineering with a strong foundation in supply chain analytics. My passion for technological trends has fueled my dynamic journey across these fields over the past five years, applying cutting-edge techniques both professionally and in personal projects. 
+Driven by a sense of urgency and continuous learning, I combine full stack software engineering with a strong foundation in supply chain and data analysis. My passion for technological trends has fueled my dynamic journey across these fields over the past five years, applying cutting-edge techniques both professionally and in personal projects. 
 
 ---
-I'm a Senior Manager of Supply Chain Analytics with 5+ years of experience working independently and leading teams for medium-sized businesses. My strong operations background in fast-paced environments has honed my technical and analytical skills, making me highly detail-oriented and efficient in problem-solving. Outside of my professional role, I apply my expertise to full stack software development for mobile and desktop applications, continuously learning and experimenting with new technologies in passion projects like those listed below. Feel free to message me on <a href="https://www.linkedin.com/in/sam-black-26046343/">LinkedIn</a>  to learn more or explore opportunities to collaborate.
+I'm a supply chain leader with 5+ years of experience working independently and leading teams for medium-sized businesses. My strong operations background in fast-paced environments has honed my technical and analytical skills, making me highly detail-oriented and efficient in problem-solving. Outside of my professional role, I apply my expertise to full stack software development for mobile and desktop applications, continuously learning and experimenting with new technologies in passion projects like those listed below. Feel free to message me on <a href="https://www.linkedin.com/in/samuel-black-cscp-26046343/">LinkedIn</a>  to learn more or explore opportunities to collaborate.
 
 <h2>Languages</h2>
 <p align="left">
